@@ -1,3 +1,4 @@
 payload:
   - DOMAIN,warframe.market
   - DOMAIN,konami.net
+  - DOMAIN-KEYWORD,parsec.app,DIRECT
