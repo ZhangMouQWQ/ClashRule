@@ -1,4 +1,4 @@
-#不走代理的
+#不走代理的(2026年5月11日未启用)
 payload:
     - 'homo.cc.cd"
     - 'dash.cloudflare.com'
